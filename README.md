@@ -20,4 +20,4 @@
 
 ## Contact
 
-Please look at the Discussions tab in this repository.
+Please look at the [Discussions](https://github.com/tran-hai-long/tran-hai-long/discussions) tab in this repository.
