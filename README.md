@@ -7,17 +7,10 @@
 - Interested in: Contributing to open-source projects that I use.
 
 ## Toolkit
-
-### Currently using
-
-![Django](https://img.shields.io/badge/Django-092e20?style=flat-square&logo=django)
-![Godot](https://img.shields.io/badge/Godot-478cbf?style=flat-square&logo=godot-engine&logoColor=white)
-
-### Want to learn
-
-![dotnet](https://img.shields.io/badge/.NET-512bd4?style=flat-square&logo=.net)
-![ReactJS](https://img.shields.io/badge/ReactJS-61dafb?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django)
+![Godot](https://img.shields.io/badge/Godot-478cbf?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 ## Contact
 
-Please look at the [Discussions](https://github.com/tran-hai-long/tran-hai-long/discussions) tab in this repository.
+Please open a discussion in the [Discussions](https://github.com/tran-hai-long/tran-hai-long/discussions) section of this repository.
